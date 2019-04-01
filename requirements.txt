@@ -34,3 +34,4 @@ psycopg2>=2.7,<2.8 --no-binary psycopg2
 dash-auth==1.2.0
 flask-seasurf==0.2.2 
 ua-parser==0.8.0
+werkzeug.utils==0.15.1
